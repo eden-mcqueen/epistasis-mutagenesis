@@ -47,6 +47,7 @@ Processed data files:
 8. SUMMARY.PER.ISOLATE.csv
 9. raw.dist.mv.sorted.csv  
 10. raw.dist.mc.sorted.csv
+   
 Note: Item 7 uses previously collected data (Metzger et al., 2016).
 Items 9 and 10 contain the specific set of bootstrap permutations used in the manuscript.
 
